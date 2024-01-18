@@ -4,6 +4,8 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-gianini&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-gianini)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso:
 
 <div style="display: inline_block">
