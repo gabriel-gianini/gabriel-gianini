@@ -1,5 +1,8 @@
 ## Olá meu nome é Gabriel 🧑🏻‍💻
 
+
+Desenvolvedor de jogos e programador C# com experiência em Unity e Construct 3. Apaixonado por criar experiências interativas e jogos envolventes. Busco combinar a arte da programação com o design de jogos para oferecer experiências únicas aos jogadores. Confira meus projetos e contribuições aqui!
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gianini-69201220b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-gianini&show_icons=true&theme=dracula)
